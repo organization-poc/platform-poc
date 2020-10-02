@@ -1,9 +1,9 @@
 dependencies:
 - name: service-a
   version: "0.2.0"
-  repository: chart-museum
+  repository: @chart-museum
 
 - name: service-b
   version: "0.1.0"
-  repository: chart-museum
+  repository: @chart-museum
 
