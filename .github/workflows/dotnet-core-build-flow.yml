@@ -12,6 +12,7 @@ jobs:
     runs-on: self-hosted
 
     steps:
+    - uses: actions/checkout@v2
     - name: helm dependencies
       run: helm-v2 dependency update platform-poc
     - name: helm push
