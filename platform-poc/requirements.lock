@@ -1,0 +1,6 @@
+dependencies:
+- name: service-a
+  repository: http://127.0.0.1:8080
+  version: 0.1.0
+digest: sha256:9eaf5e612f5d3ac4138b451052676eede7a0e38b7acb37330d183c94b9b02ce3
+generated: "2020-10-01T09:25:33.900539425+02:00"
